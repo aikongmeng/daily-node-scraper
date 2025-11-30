@@ -1,0 +1,46 @@
+name: Daily Node Scraper
+
+# 触发条件
+on:
+  schedule:
+    # 每天北京时间早上 8:00 运行 (UTC 时间 0:00)
+    - cron: '0 0 * * *'
+  # 允许手动触发测试
+  workflow_dispatch:
+
+jobs:
+  scrape_and_update:
+    runs-on: ubuntu-latest
+    
+    permissions:
+      contents: write  # 赋予提交代码的权限
+      
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run scraper script
+        run: |
+          python main.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          # 检查是否有文件变动
+          git add nodes_list.txt
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto-update node links [skip ci]"
+            git push
+          fi
