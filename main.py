@@ -16,6 +16,7 @@ URLS = [
     "https://www.cfmem.com/",
     "https://www.85la.com/",
     "https://nodecats.com/",
+    "https://yoyapai.com/",
     "https://github.com/Pawdroid/Free-servers" # GitHub 这种页面可能直接有链接，也可能需要深挖
 ]
 
