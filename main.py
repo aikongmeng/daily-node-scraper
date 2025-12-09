@@ -8,6 +8,7 @@ from datetime import datetime
 # 待抓取的网站列表
 URLS = [
     "https://www.freeclashnode.com/",
+    "https://yoyapai.com/mianfeijiedian",
     "https://wanzhuanmi.com/",
     "https://oneclash.cc/",
     "https://clashnodes.com/",
@@ -26,7 +27,7 @@ HEADERS = {
 }
 
 # 每个网站最多深入访问多少个子页面（防止超时）
-MAX_DEPTH_PAGES = 5 
+MAX_DEPTH_PAGES = 15 
 
 # ----------------核心代码----------------
 
