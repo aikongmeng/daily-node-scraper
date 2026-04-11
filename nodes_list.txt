@@ -1,6 +1,6 @@
 # Auto-scraped Node Subscriptions
-# Updated: 2026-04-10 02:44:53
-# Total found: 322
+# Updated: 2026-04-11 02:29:53
+# Total found: 323
 
 http://wanzhuanmi.cczzuu.top/node/20260401-clash.yaml
 http://wanzhuanmi.cczzuu.top/node/20260401-v2ray.txt
@@ -42,13 +42,6 @@ https://mm.mibei77.com/202604/0407Clashnli.yaml
 https://mm.mibei77.com/202604/0408Clashopl.yaml
 https://mm.mibei77.com/202604/0409Clashplr.yaml
 https://mm.mibei77.com/202604/0410Clashioq.yaml
-https://node.clashnode.cc/uploads/2026/03/0-20260331.txt
-https://node.clashnode.cc/uploads/2026/03/0-20260331.yaml
-https://node.clashnode.cc/uploads/2026/03/1-20260331.txt
-https://node.clashnode.cc/uploads/2026/03/1-20260331.yaml
-https://node.clashnode.cc/uploads/2026/03/2-20260331.txt
-https://node.clashnode.cc/uploads/2026/03/2-20260331.yaml
-https://node.clashnode.cc/uploads/2026/03/3-20260331.yaml
 https://node.clashnode.cc/uploads/2026/04/0-20260401.txt
 https://node.clashnode.cc/uploads/2026/04/0-20260401.yaml
 https://node.clashnode.cc/uploads/2026/04/0-20260402.txt
@@ -63,6 +56,7 @@ https://node.clashnode.cc/uploads/2026/04/0-20260409.txt
 https://node.clashnode.cc/uploads/2026/04/0-20260409.yaml
 https://node.clashnode.cc/uploads/2026/04/0-20260410.txt
 https://node.clashnode.cc/uploads/2026/04/0-20260410.yaml
+https://node.clashnode.cc/uploads/2026/04/0-20260411.txt
 https://node.clashnode.cc/uploads/2026/04/1-20260402.txt
 https://node.clashnode.cc/uploads/2026/04/1-20260403.txt
 https://node.clashnode.cc/uploads/2026/04/1-20260405.yaml
@@ -73,6 +67,8 @@ https://node.clashnode.cc/uploads/2026/04/1-20260407.yaml
 https://node.clashnode.cc/uploads/2026/04/1-20260408.txt
 https://node.clashnode.cc/uploads/2026/04/1-20260409.yaml
 https://node.clashnode.cc/uploads/2026/04/1-20260410.yaml
+https://node.clashnode.cc/uploads/2026/04/1-20260411.txt
+https://node.clashnode.cc/uploads/2026/04/1-20260411.yaml
 https://node.clashnode.cc/uploads/2026/04/2-20260401.txt
 https://node.clashnode.cc/uploads/2026/04/2-20260401.yaml
 https://node.clashnode.cc/uploads/2026/04/2-20260402.yaml
@@ -87,6 +83,8 @@ https://node.clashnode.cc/uploads/2026/04/2-20260408.yaml
 https://node.clashnode.cc/uploads/2026/04/2-20260409.yaml
 https://node.clashnode.cc/uploads/2026/04/2-20260410.txt
 https://node.clashnode.cc/uploads/2026/04/2-20260410.yaml
+https://node.clashnode.cc/uploads/2026/04/2-20260411.txt
+https://node.clashnode.cc/uploads/2026/04/2-20260411.yaml
 https://node.clashnode.cc/uploads/2026/04/3-20260401.yaml
 https://node.clashnode.cc/uploads/2026/04/3-20260402.txt
 https://node.clashnode.cc/uploads/2026/04/3-20260402.yaml
@@ -100,6 +98,8 @@ https://node.clashnode.cc/uploads/2026/04/3-20260407.txt
 https://node.clashnode.cc/uploads/2026/04/3-20260407.yaml
 https://node.clashnode.cc/uploads/2026/04/3-20260409.yaml
 https://node.clashnode.cc/uploads/2026/04/3-20260410.txt
+https://node.clashnode.cc/uploads/2026/04/3-20260411.txt
+https://node.clashnode.cc/uploads/2026/04/3-20260411.yaml
 https://node.clashnode.cc/uploads/2026/04/4-20260402.txt
 https://node.clashnode.cc/uploads/2026/04/4-20260403.txt
 https://node.clashnode.cc/uploads/2026/04/4-20260403.yaml
@@ -112,15 +112,8 @@ https://node.clashnode.cc/uploads/2026/04/4-20260407.yaml
 https://node.clashnode.cc/uploads/2026/04/4-20260409.txt
 https://node.clashnode.cc/uploads/2026/04/4-20260409.yaml
 https://node.clashnode.cc/uploads/2026/04/4-20260410.yaml
-https://node.clashnodes.com/uploads/2026/03/0-20260331.yaml
-https://node.clashnodes.com/uploads/2026/03/1-20260331.txt
-https://node.clashnodes.com/uploads/2026/03/1-20260331.yaml
-https://node.clashnodes.com/uploads/2026/03/2-20260331.txt
-https://node.clashnodes.com/uploads/2026/03/2-20260331.yaml
-https://node.clashnodes.com/uploads/2026/03/3-20260331.txt
-https://node.clashnodes.com/uploads/2026/03/3-20260331.yaml
-https://node.clashnodes.com/uploads/2026/03/4-20260331.txt
-https://node.clashnodes.com/uploads/2026/03/4-20260331.yaml
+https://node.clashnode.cc/uploads/2026/04/4-20260411.txt
+https://node.clashnode.cc/uploads/2026/04/4-20260411.yaml
 https://node.clashnodes.com/uploads/2026/04/0-20260401.txt
 https://node.clashnodes.com/uploads/2026/04/0-20260401.yaml
 https://node.clashnodes.com/uploads/2026/04/0-20260402.txt
@@ -136,6 +129,7 @@ https://node.clashnodes.com/uploads/2026/04/0-20260407.txt
 https://node.clashnodes.com/uploads/2026/04/0-20260407.yaml
 https://node.clashnodes.com/uploads/2026/04/0-20260408.yaml
 https://node.clashnodes.com/uploads/2026/04/0-20260410.yaml
+https://node.clashnodes.com/uploads/2026/04/0-20260411.txt
 https://node.clashnodes.com/uploads/2026/04/1-20260401.txt
 https://node.clashnodes.com/uploads/2026/04/1-20260401.yaml
 https://node.clashnodes.com/uploads/2026/04/1-20260402.txt
@@ -149,6 +143,7 @@ https://node.clashnodes.com/uploads/2026/04/1-20260407.txt
 https://node.clashnodes.com/uploads/2026/04/1-20260407.yaml
 https://node.clashnodes.com/uploads/2026/04/1-20260410.txt
 https://node.clashnodes.com/uploads/2026/04/1-20260410.yaml
+https://node.clashnodes.com/uploads/2026/04/1-20260411.yaml
 https://node.clashnodes.com/uploads/2026/04/2-20260401.txt
 https://node.clashnodes.com/uploads/2026/04/2-20260401.yaml
 https://node.clashnodes.com/uploads/2026/04/2-20260402.txt
@@ -164,6 +159,7 @@ https://node.clashnodes.com/uploads/2026/04/2-20260408.yaml
 https://node.clashnodes.com/uploads/2026/04/2-20260409.txt
 https://node.clashnodes.com/uploads/2026/04/2-20260409.yaml
 https://node.clashnodes.com/uploads/2026/04/2-20260410.yaml
+https://node.clashnodes.com/uploads/2026/04/2-20260411.txt
 https://node.clashnodes.com/uploads/2026/04/3-20260401.txt
 https://node.clashnodes.com/uploads/2026/04/3-20260401.yaml
 https://node.clashnodes.com/uploads/2026/04/3-20260402.txt
@@ -180,6 +176,7 @@ https://node.clashnodes.com/uploads/2026/04/3-20260409.txt
 https://node.clashnodes.com/uploads/2026/04/3-20260409.yaml
 https://node.clashnodes.com/uploads/2026/04/3-20260410.txt
 https://node.clashnodes.com/uploads/2026/04/3-20260410.yaml
+https://node.clashnodes.com/uploads/2026/04/3-20260411.yaml
 https://node.clashnodes.com/uploads/2026/04/4-20260401.txt
 https://node.clashnodes.com/uploads/2026/04/4-20260401.yaml
 https://node.clashnodes.com/uploads/2026/04/4-20260402.txt
@@ -193,8 +190,7 @@ https://node.clashnodes.com/uploads/2026/04/4-20260407.yaml
 https://node.clashnodes.com/uploads/2026/04/4-20260408.txt
 https://node.clashnodes.com/uploads/2026/04/4-20260409.yaml
 https://node.clashnodes.com/uploads/2026/04/4-20260410.yaml
-https://node.freeclashnode.com/uploads/2026/04/0-20260404.txt
-https://node.freeclashnode.com/uploads/2026/04/0-20260404.yaml
+https://node.clashnodes.com/uploads/2026/04/4-20260411.yaml
 https://node.freeclashnode.com/uploads/2026/04/0-20260405.yaml
 https://node.freeclashnode.com/uploads/2026/04/0-20260406.txt
 https://node.freeclashnode.com/uploads/2026/04/0-20260407.txt
@@ -203,7 +199,8 @@ https://node.freeclashnode.com/uploads/2026/04/0-20260408.yaml
 https://node.freeclashnode.com/uploads/2026/04/0-20260409.txt
 https://node.freeclashnode.com/uploads/2026/04/0-20260410.txt
 https://node.freeclashnode.com/uploads/2026/04/0-20260410.yaml
-https://node.freeclashnode.com/uploads/2026/04/1-20260404.txt
+https://node.freeclashnode.com/uploads/2026/04/0-20260411.txt
+https://node.freeclashnode.com/uploads/2026/04/0-20260411.yaml
 https://node.freeclashnode.com/uploads/2026/04/1-20260405.txt
 https://node.freeclashnode.com/uploads/2026/04/1-20260406.txt
 https://node.freeclashnode.com/uploads/2026/04/1-20260407.txt
@@ -214,7 +211,8 @@ https://node.freeclashnode.com/uploads/2026/04/1-20260409.txt
 https://node.freeclashnode.com/uploads/2026/04/1-20260409.yaml
 https://node.freeclashnode.com/uploads/2026/04/1-20260410.txt
 https://node.freeclashnode.com/uploads/2026/04/1-20260410.yaml
-https://node.freeclashnode.com/uploads/2026/04/2-20260404.txt
+https://node.freeclashnode.com/uploads/2026/04/1-20260411.txt
+https://node.freeclashnode.com/uploads/2026/04/1-20260411.yaml
 https://node.freeclashnode.com/uploads/2026/04/2-20260405.txt
 https://node.freeclashnode.com/uploads/2026/04/2-20260405.yaml
 https://node.freeclashnode.com/uploads/2026/04/2-20260407.txt
@@ -222,7 +220,8 @@ https://node.freeclashnode.com/uploads/2026/04/2-20260408.txt
 https://node.freeclashnode.com/uploads/2026/04/2-20260408.yaml
 https://node.freeclashnode.com/uploads/2026/04/2-20260409.txt
 https://node.freeclashnode.com/uploads/2026/04/2-20260409.yaml
-https://node.freeclashnode.com/uploads/2026/04/3-20260404.yaml
+https://node.freeclashnode.com/uploads/2026/04/2-20260411.txt
+https://node.freeclashnode.com/uploads/2026/04/2-20260411.yaml
 https://node.freeclashnode.com/uploads/2026/04/3-20260405.txt
 https://node.freeclashnode.com/uploads/2026/04/3-20260406.txt
 https://node.freeclashnode.com/uploads/2026/04/3-20260406.yaml
@@ -232,6 +231,7 @@ https://node.freeclashnode.com/uploads/2026/04/3-20260408.yaml
 https://node.freeclashnode.com/uploads/2026/04/3-20260409.txt
 https://node.freeclashnode.com/uploads/2026/04/3-20260409.yaml
 https://node.freeclashnode.com/uploads/2026/04/3-20260410.txt
+https://node.freeclashnode.com/uploads/2026/04/3-20260411.txt
 https://node.freeclashnode.com/uploads/2026/04/4-20260405.txt
 https://node.freeclashnode.com/uploads/2026/04/4-20260406.txt
 https://node.freeclashnode.com/uploads/2026/04/4-20260406.yaml
@@ -241,10 +241,8 @@ https://node.freeclashnode.com/uploads/2026/04/4-20260408.yaml
 https://node.freeclashnode.com/uploads/2026/04/4-20260409.txt
 https://node.freeclashnode.com/uploads/2026/04/4-20260409.yaml
 https://node.freeclashnode.com/uploads/2026/04/4-20260410.txt
+https://node.freeclashnode.com/uploads/2026/04/4-20260411.txt
 https://openit.ml/Clash.yaml
-https://oss.oneclash.cc/2026/03/20260331.txt
-https://oss.oneclash.cc/2026/03/20260331.yaml
-https://oss.oneclash.cc/2026/03/m20260331.yaml
 https://oss.oneclash.cc/2026/04/20260401.txt
 https://oss.oneclash.cc/2026/04/20260401.yaml
 https://oss.oneclash.cc/2026/04/20260402.txt
@@ -263,6 +261,8 @@ https://oss.oneclash.cc/2026/04/20260408.txt
 https://oss.oneclash.cc/2026/04/20260408.yaml
 https://oss.oneclash.cc/2026/04/20260409.txt
 https://oss.oneclash.cc/2026/04/20260409.yaml
+https://oss.oneclash.cc/2026/04/20260410.txt
+https://oss.oneclash.cc/2026/04/20260410.yaml
 https://oss.oneclash.cc/2026/04/m20260401.yaml
 https://oss.oneclash.cc/2026/04/m20260402.yaml
 https://oss.oneclash.cc/2026/04/m20260403.yaml
@@ -272,12 +272,9 @@ https://oss.oneclash.cc/2026/04/m20260406.yaml
 https://oss.oneclash.cc/2026/04/m20260407.yaml
 https://oss.oneclash.cc/2026/04/m20260408.yaml
 https://oss.oneclash.cc/2026/04/m20260409.yaml
+https://oss.oneclash.cc/2026/04/m20260410.yaml
 https://raw.githubusercontent.com/yu-steven/openit/main/Clash.yaml
 https://sub.sharecentre.online/clash/scp.yml
-https://v2rayse.com/fs/public/20260329/7300eiy.txt
-https://v2rayse.com/fs/public/20260329/qp5hoib.yaml
-https://v2rayse.com/fs/public/20260329/tjayu6j.yaml
-https://v2rayse.com/fs/public/20260329/vv8lxjc.txt
 https://v2rayse.com/fs/public/20260330/hnaqlq3.yaml
 https://v2rayse.com/fs/public/20260330/lsjnwk8.txt
 https://v2rayse.com/fs/public/20260330/oe2u25l.yaml
@@ -323,4 +320,8 @@ https://v2rayse.com/fs/public/20260409/6lleriu.yaml
 https://v2rayse.com/fs/public/20260409/il4xkie.txt
 https://v2rayse.com/fs/public/20260409/jdil1p6.yaml
 https://v2rayse.com/fs/public/20260410/27tuzve.txt
+https://v2rayse.com/fs/public/20260410/pif5z6j.txt
 https://v2rayse.com/fs/public/20260410/r7i4b04.yaml
+https://v2rayse.com/fs/public/20260410/vbkhqpg.yaml
+https://v2rayse.com/fs/public/20260411/rgqsej5.yaml
+https://v2rayse.com/fs/public/20260411/v8gaoaq.txt
