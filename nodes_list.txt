@@ -1,23 +1,23 @@
 # Auto-scraped Node Subscriptions
-# Updated: 2026-10-06 05:21:24
+# Updated: 2026-10-07 04:49:49
 # Total found: 69
 
 https://cdn.jsdelivr.net/gh/oslook/clash-freenode@main/clash.yaml
 https://cdn.statically.io/gh/oslook/clash-freenode/main/clash.yaml
-https://mm.mibei77.com/202609/09.3064bavfd.txt
-https://mm.mibei77.com/202609/0930Clashikz.yaml
 https://mm.mibei77.com/202610/10.0164bacvd.txt
 https://mm.mibei77.com/202610/10.01Clashiza.yaml
 https://mm.mibei77.com/202610/10.0264bacdq.txt
 https://mm.mibei77.com/202610/10.0364bacda.txt
 https://mm.mibei77.com/202610/10.0564bacvd.txt
 https://mm.mibei77.com/202610/10.0664bacvs.txt
+https://mm.mibei77.com/202610/10.0764bacva.txt
 https://mm.mibei77.com/202610/10.464bacvd.txt
 https://mm.mibei77.com/202610/1002Clashizx.yaml
 https://mm.mibei77.com/202610/1003Clashlkx.yaml
 https://mm.mibei77.com/202610/1004Clashizx.yaml
 https://mm.mibei77.com/202610/1005Clashizx.yaml
 https://mm.mibei77.com/202610/1006Clashizx.yaml
+https://mm.mibei77.com/202610/1007Clashiza.yaml
 https://openit.ml/Clash.yaml
 https://oss.oneclash.cc/2026/09/20260927.txt
 https://oss.oneclash.cc/2026/09/20260927.yaml
@@ -51,8 +51,6 @@ https://oss.oneclash.cc/2026/10/m20261005.yaml
 https://oss.oneclash.cc/2026/10/m20261006.yaml
 https://raw.githubusercontent.com/yu-steven/openit/main/Clash.yaml
 https://sub.sharecentre.online/clash/scp.yml
-https://wanzhuanmi.cczzuu.top/2026/09/wzjd-20260927.txt
-https://wanzhuanmi.cczzuu.top/2026/09/wzjd-20260927.yaml
 https://wanzhuanmi.cczzuu.top/2026/09/wzjd-20260928.txt
 https://wanzhuanmi.cczzuu.top/2026/09/wzjd-20260928.yaml
 https://wanzhuanmi.cczzuu.top/2026/09/wzjd-20260929.txt
@@ -71,3 +69,5 @@ https://wanzhuanmi.cczzuu.top/2026/10/wzjd-20261005.txt
 https://wanzhuanmi.cczzuu.top/2026/10/wzjd-20261005.yaml
 https://wanzhuanmi.cczzuu.top/2026/10/wzjd-20261006.txt
 https://wanzhuanmi.cczzuu.top/2026/10/wzjd-20261006.yaml
+https://wanzhuanmi.cczzuu.top/2026/10/wzjd-20261007.txt
+https://wanzhuanmi.cczzuu.top/2026/10/wzjd-20261007.yaml
